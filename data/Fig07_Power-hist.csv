@@ -1,0 +1,6 @@
+Position,power_mW_HPX,power_mW_HPX,power_mW_LED,power_mW_LED
+values,mean,std,mean,std
+A,94.9,3.27,58.4,6.82
+B,52.5,0.51,9.1,0.55
+C,19.2,0.63,8.5,0.16
+D,11.1,0.23,5.2,0.15
