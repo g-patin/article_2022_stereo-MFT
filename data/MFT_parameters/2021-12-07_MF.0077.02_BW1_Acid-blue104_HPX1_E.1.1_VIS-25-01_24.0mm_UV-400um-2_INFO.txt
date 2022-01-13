@@ -1,0 +1,48 @@
+parameter,value
+[MICRO-FADING ANALYSIS], 
+author,Gauthier Patin
+date,2021-12-07
+project,1.1_stereo-MFT
+[SAMPLE DATA], 
+sample_type,BW1
+sample_nb,nb.0077
+pigment,C.I. Acid Blue 104
+ratio,1
+colour,blue
+thickness_microns,unknown
+sample_date,2019
+[DEVICE DATA], 
+device,Tidas_S 400
+option,E.1.1
+zoom,x5.0
+geometry,45° : 0°
+distance_ill_mm,24.0
+fiber_ill,"Avantes, UV400um-2m"
+lamp,"HPX1_Ocean Optics, HPX-2000-HP-DUV"
+filter,VIS-25-01_Calflex-C
+white_ref,WR1
+[ANALYSIS DATA], 
+Id,MF.0077.02
+specular_component,included
+integration_time_ms,150.00
+average,30
+duration_min,30.0
+interval_sec,20.0
+measurements_N,90
+illuminant,D65
+observer,10deg
+[BEAM DATA], 
+beam_photo,01
+resolution_micron/pixel,0.4005
+FWHM_micron,732.0
+power_mW,P.0691_7.873+/-0.020
+irradiance_W/m**2,9000.0+/-5000.0
+luminuous_flux_lm,1.02
+illuminance_lux,2431215
+[RESULTS], 
+E_1dE00_MJ/m**2_Mlx.hr,2.04_0.15
+E_2dE00_MJ/m**2_Mlx.hr,6.61_0.5
+dEab,7.41
+dE00,3.46
+dR_VIS,1.77
+dR,1.16
