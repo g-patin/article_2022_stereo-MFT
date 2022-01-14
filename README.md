@@ -11,7 +11,7 @@ notebooks    -> contains jupyter notebooks that are used to run the python scrip
 
 src          -> python scripts that are used to process and visualize data
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/g-patin/MFT/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/g-patin/article_2022_stereo-MFT/HEAD)
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/g-patin/MFT/HEAD
+ :target: https://mybinder.org/v2/gh/g-patin/article_2022_stereo-MFT/HEAD
